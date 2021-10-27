@@ -18,6 +18,9 @@ You can see an *example output* of this **TripAdvisor Hotel Data scraper** for a
 ![image](https://user-images.githubusercontent.com/59505246/137522372-7e5f8551-3df9-4b62-943b-85c4ca219fba.png)
 
 
+![image](https://user-images.githubusercontent.com/59505246/139126915-8dda02ef-f6a5-442b-83c1-06f65ebb96a1.png)
+
+
 
 
 
